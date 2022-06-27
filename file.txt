@@ -1,5 +1,8 @@
 fist line
+<<<<<<< HEAD
 
 second line
 
 third line 
+=======
+>>>>>>> parent of 5d95a22... second commit
